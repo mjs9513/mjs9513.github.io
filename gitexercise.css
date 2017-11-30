@@ -1,0 +1,17 @@
+h2
+{
+    text-align: center;
+    border: 1px;
+    border-style: dashed;
+    border-color: solid black;
+    box-shadow: 5px 5px 5px black;
+}
+#picture-box
+{
+    text-align: center;
+    border: 1px;
+    border-style: dashed;
+    border-color: solid black;
+    padding: 2px;
+     box-shadow: 5px 5px 5px black;
+    }
